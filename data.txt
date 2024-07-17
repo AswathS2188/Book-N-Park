@@ -1,0 +1,6 @@
+train: ../project/images/training
+val: ../project/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['numberplate']
